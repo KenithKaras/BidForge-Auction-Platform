@@ -121,7 +121,3 @@ npm run dev
 - 🛡️ Fraud detection  
 
 ---
-
-## 📬 Contact
-
-Created by **Kenith Karas**
