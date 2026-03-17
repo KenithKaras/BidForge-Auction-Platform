@@ -8,7 +8,7 @@ With a modern UI 🎨, smooth animations, and scalable architecture, BidForge fo
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-00BFA6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-live-link.com)
 
-✨ Key Features
+### ✨ Key Features
 
 🔴 Real-time bidding using WebSockets
 
@@ -22,7 +22,7 @@ With a modern UI 🎨, smooth animations, and scalable architecture, BidForge fo
 
 🎨 Modern responsive UI with smooth animations
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 🎨 Frontend:-
 ⚛️ React
 🎨 Tailwind CSS
@@ -39,7 +39,7 @@ With a modern UI 🎨, smooth animations, and scalable architecture, BidForge fo
 🤖 AI Integration:-
 🧠 Google Gemini API
 
-⚙️ Setup Instructions
+### ⚙️ Setup Instructions
 1️⃣ Database Setup (Supabase)
 🌐 Create a new project on https://supabase.com/
 🧾 Open the SQL Editor
@@ -48,17 +48,25 @@ With a modern UI 🎨, smooth animations, and scalable architecture, BidForge fo
 📋 Copy:
 Project URL
 anon public key
+
+###
+
 2️⃣ Environment Variables
 📁 Create a .env file in the root directory:
 
 VITE_SUPABASE_URL=your_supabase_url
 VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 GEMINI_API_KEY=your_gemini_api_key
+###
+
 3️⃣ Installation
 npm install
+###
+
 4️⃣ Run the Application
 npm run dev
-🤖 AI Features
+
+### 🤖 AI Features
 👨‍💼 Admin Side
 
 ✨ AI Generate Button
@@ -69,7 +77,7 @@ Automatically creates professional item descriptions using Gemini API
 📊 Smart Bid Suggestions
 Recommends optimal bid values based on current auction activity
 
-🔄 Real-Time Bidding Logic
+### 🔄 Real-Time Bidding Logic
 
 BidForge uses 🔌 Socket.io for real-time communication.
 
@@ -81,7 +89,7 @@ When a user places a bid:
 
 🔄 No page refresh required
 
-🎯 Project Objective
+### 🎯 Project Objective
 
 To build a scalable, real-time auction system that combines:
 
@@ -91,7 +99,7 @@ To build a scalable, real-time auction system that combines:
 
 ⚡ Seamless user experience
 
-🚀 Future Enhancements
+### 🚀 Future Enhancements
 
 💳 Payment gateway integration
 
