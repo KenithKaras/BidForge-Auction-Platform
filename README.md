@@ -6,7 +6,7 @@ The platform operates on a 💰 credit-based economy, allowing controlled and st
 
 With a modern UI 🎨, smooth animations, and scalable architecture, BidForge focuses on performance, usability, and intelligent decision-making, making it a complete solution for next-generation digital auction systems.
 
-<hr style="border:0.2px solid #444;">
+<hr>
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-00BFA6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-live-link.com)
 
