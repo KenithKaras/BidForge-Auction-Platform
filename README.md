@@ -123,6 +123,4 @@ npm run dev
 ---
 
 Created By 
-Team CodeSyn
 -Kenith Karas
--Jay Patil
